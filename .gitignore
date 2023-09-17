@@ -1,3 +1,4 @@
 /target
 audio
 Cargo.lock
+.DS_store
